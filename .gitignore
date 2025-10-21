@@ -1,0 +1,10 @@
+# 가상환경
+.vscode
+# 환경변수
+.env
+# 파이썬
+*.splite3
+*.db
+*.__pycache__pandas-data-analysis/part4/my_data.csv
+pandas-data-analysis/part4/my_data.csv 
+pandas-data-analysis/part4/my_data.csv 
