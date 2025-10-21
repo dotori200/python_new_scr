@@ -8,3 +8,5 @@
 *.__pycache__pandas-data-analysis/part4/my_data.csv
 pandas-data-analysis/part4/my_data.csv 
 pandas-data-analysis/part4/my_data.csv 
+*.zip
+*.csv
